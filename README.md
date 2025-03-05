@@ -6,13 +6,13 @@ YouTubeSummarizer AI is a powerful tool that extracts and summarizes key insight
 
 **Features**
 
-#Extracts YouTube video transcripts automatically.
+Extracts YouTube video transcripts automatically.
 
-#Generates concise and accurate summaries.
+Generates concise and accurate summaries.
 
-#Utilizes LangChain for seamless text processing.
+Utilizes LangChain for seamless text processing.
 
-#User-friendly interface with Streamlit.
+User-friendly interface with Streamlit.
 
 **Requirements**
 
